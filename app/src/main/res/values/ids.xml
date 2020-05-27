@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_view" type="id">Recycler View</item>
+    <item name="parent_layout" type="id">Parent</item>
+</resources>
